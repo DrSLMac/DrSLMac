@@ -65,12 +65,9 @@ Welcome! I am a nurse practitioner, turned front end software engineer. I am pas
 ---
 
 ### :fire: My Stats :
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrSLMac&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrSLMac&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DrSLMac/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DrSLMac/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 
-
-
-
+</div>
