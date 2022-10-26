@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-Welcome! I am a nurse practitioner, turned front end software engineering student. After a quarter century in healthcare, I am turning my focus and learning to the technology-side of care. 
-- 🌱 I’m currently learning React.
-- 🔭 I’m currently working on IdeaBoxes and learning React, looking forward to learning React Native and TypeScript. 
+Welcome! I am a nurse practitioner, turned front end software engineer. I am passionate about creating engaging UI experiences.
+- 🌱 I’m currently learning AWS.
+- 🔭 I’m currently working on honing in on beautiful, responsive CSS skills 
 - 💬 Ask me about my thoughts on the role of technology in improving healthcare
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shauna-macfarlane-okongo/)
 - 😄 Pronouns: she/her
@@ -64,12 +64,12 @@ Welcome! I am a nurse practitioner, turned front end software engineering studen
 
 ---
 
-
 ### :fire: My Stats :
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrSLMac&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrSLMac&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DrSLMac/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DrSLMac/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 
 
