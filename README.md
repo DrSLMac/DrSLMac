@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 Welcome! I am a nurse practitioner, turned front end software engineer. I am passionate about creating engaging UI experiences.
-- 🌱 I’m currently learning AWS.
-- 🔭 I’m currently working on honing in on beautiful, responsive CSS skills 
+- 🌱 
+- 🔭 
 - 💬 Ask me about my thoughts on the role of technology in improving healthcare
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shauna-macfarlane-okongo/)
 - 😄 Pronouns: she/her
